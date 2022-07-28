@@ -1,0 +1,15 @@
+{
+  "name": "typedoc-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "doc": "typedoc --out ./doc index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typedoc": "^0.22.18"
+  }
+}
